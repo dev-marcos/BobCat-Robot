@@ -1,4 +1,4 @@
-# BobCat-Robot
+# BobCat Robot
 Robôs de combate não destrutivo - Arena Bluetooth
 
 O estilo de competição é o Robô Arena não destrutivo controlado por Bluetooth, ondedois robôs controlados a distância disputam qual consegue permanecer no interior de uma arena expulsando o seu oponente da mesma através de buracos nas laterais da arena.
